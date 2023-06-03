@@ -50,10 +50,8 @@ def max_marks(list1):
     return max1
 ```
 ## Output:
-![Screenshot 2023-06-03 191005](https://github.com/Apravinraj/FindMaximum/assets/118707879/27dc5e27-dad2-4483-a130-fde898fd2444)
-
-![Screenshot 2023-06-03 191028](https://github.com/Apravinraj/FindMaximum/assets/118707879/23f996fb-b9d6-4925-b5fe-55e1a3531f37)
-
+![Screenshot 2023-06-03 192139](https://github.com/Apravinraj/FindMaximum/assets/118707879/19adee6c-e65b-4140-bb6f-b84714786b77)
+![Screenshot 2023-06-03 192206](https://github.com/Apravinraj/FindMaximum/assets/118707879/c810d3e5-87f3-431d-b085-2b16e7ca211f)
 ![Screenshot 2023-06-03 191108](https://github.com/Apravinraj/FindMaximum/assets/118707879/b9943d28-afaa-4c1a-9c9f-baec3e4cb6a3)
 
 ## Result:
